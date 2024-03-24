@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # #TWSThreeTierAppChallenge
 
 ## Overview
@@ -143,3 +144,7 @@ For any queries or issues, please open an issue in the repository.
 
 ---
 Happy Learning! 🚀👨‍💻👩‍💻
+=======
+# 3-TierApplication
+3 Tier application
+>>>>>>> 28b52baee2cebd66f9f06555729ea6cfb18d1181
